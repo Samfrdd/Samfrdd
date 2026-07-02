@@ -17,8 +17,6 @@ Je suis co-fondateur de **[Release33](https://release33.ch/)** 🇨🇭, un **st
 
 - 🔭 Je bosse sur du **web applicatif**, des **plugins** et des outils sur mesure
 - 🎮 Je touche aussi au **jeu vidéo, à la simulation et à la 3D** avec Unity
-- 🐳 Je développe **[Stackr](https://release33.ch/)**, un outil de gestion de conteneurs **Docker & Podman** (bientôt open source)
-- 🇨🇭 Basé en Suisse, avec une vraie obsession pour la qualité
 - 💬 Parle-moi de dev web, de game dev ou de tes idées de projet
 
 ---
